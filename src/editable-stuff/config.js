@@ -17,7 +17,7 @@ const mainBody = {
     },
     {
       image: "fa-facebook",
-      url: "https://www.facebook.com/hmzaminhas01",
+      url: "https://www.facebook.com/hamzaminhas01",
     },
     {
       image: "fa-instagram",
